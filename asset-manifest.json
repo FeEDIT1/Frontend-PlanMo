@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/frontend/static/js/main.2988c682.chunk.js",
-    "main.js.map": "/frontend/static/js/main.2988c682.chunk.js.map",
-    "runtime-main.js": "/frontend/static/js/runtime-main.076ce67a.js",
-    "runtime-main.js.map": "/frontend/static/js/runtime-main.076ce67a.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/frontend/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.24e34f75.chunk.js": "/frontend/static/js/2.24e34f75.chunk.js",
-    "static/js/2.24e34f75.chunk.js.map": "/frontend/static/js/2.24e34f75.chunk.js.map",
-    "index.html": "/frontend/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/frontend/static/css/2.4c97ca4f.chunk.css.map",
-    "static/js/2.24e34f75.chunk.js.LICENSE.txt": "/frontend/static/js/2.24e34f75.chunk.js.LICENSE.txt"
+    "main.js": "/Frontend-PlanMo/static/js/main.2988c682.chunk.js",
+    "main.js.map": "/Frontend-PlanMo/static/js/main.2988c682.chunk.js.map",
+    "runtime-main.js": "/Frontend-PlanMo/static/js/runtime-main.598487ee.js",
+    "runtime-main.js.map": "/Frontend-PlanMo/static/js/runtime-main.598487ee.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Frontend-PlanMo/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.24e34f75.chunk.js": "/Frontend-PlanMo/static/js/2.24e34f75.chunk.js",
+    "static/js/2.24e34f75.chunk.js.map": "/Frontend-PlanMo/static/js/2.24e34f75.chunk.js.map",
+    "index.html": "/Frontend-PlanMo/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Frontend-PlanMo/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.24e34f75.chunk.js.LICENSE.txt": "/Frontend-PlanMo/static/js/2.24e34f75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.076ce67a.js",
+    "static/js/runtime-main.598487ee.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.24e34f75.chunk.js",
     "static/js/main.2988c682.chunk.js"
